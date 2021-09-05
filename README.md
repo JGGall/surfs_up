@@ -10,7 +10,7 @@ Someone who wants to open a combination surf shop and ice cream shop on the isla
 
 - This is an image of the summary statistics for June produced by the code in my challenege assignment:
 ![June_summary_statistics.png](https://github.com/JGGall/surfs_up/blob/main/Resources/June_summary_statistics.png)
-- This is an image of the summary statistics for December produced by the code in my challenege assignment:![December_summary_statistics.png](URL)
+- This is an image of the summary statistics for December produced by the code in my challenege assignment:![December_summary_statistics.png](https://github.com/JGGall/surfs_up/blob/main/Resources/December_summary_statistics.png)
 
 ## Summary
 ### *High-Level Summary*
