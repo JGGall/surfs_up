@@ -8,9 +8,9 @@ Someone who wants to open a combination surf shop and ice cream shop on the isla
 - The lowest temperature recorded in June at the Oahu weather stations was 64 degrees, while the lowest December temperature recorded there was 56 degrees. So there is a slightly greater difference between June and December in the cool early morning temperatures that mark the daily low.
 - The mean temperature is the average of all of the hourly observations at all of the weather stations on Oahu in June and in December. As a single figure it gives an insight into what temperatures are like for the month. The mean temperature for June is 74.944118 degrees. The mean for December is 71.041529. So very little variation is documented in the mean temperature of June and December.
 
-- This is an image of the summary statistics for June produced by the code in my challenege assignment:
+- This is an image of the summary statistics for June produced by the code in my challenge assignment:
 ![June_summary_statistics.png](https://github.com/JGGall/surfs_up/blob/main/Resources/June_summary_statistics.png)
-- This is an image of the summary statistics for December produced by the code in my challenege assignment:![December_summary_statistics.png](https://github.com/JGGall/surfs_up/blob/main/Resources/December_summary_statistics.png)
+- This is an image of the summary statistics for December produced by the code in my challenge assignment:![December_summary_statistics.png](https://github.com/JGGall/surfs_up/blob/main/Resources/December_summary_statistics.png)
 
 ## Summary
 ### *High-Level Summary*
